@@ -35,7 +35,7 @@ int main()
 			result = My.Calculate(x, oper, y);
 		}
 		
-		cout << "Result is: " << result << endl;
+		cout << "Result = : " << result << endl;
 	}
 	
 	return 0;
